@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elering is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://elering.ee/
+Elering is Estonia’s transmission system operator, responsible for the operation, development and maintenance of the national electricity transmission grid. It ensures reliable power supply, manages cross‑border electricity flows, and supports market participants with grid services and data. The company also provides platforms for grid connection applications, metering data, and system balancing, serving both domestic and international stakeholders.
+
+**Areas:** Energy · Transmission · Grid · Estonia · Utilities
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.elering.ee/)
+- [Documentation](https://www.elering.ee/en/)
+- [Pricing](https://www.elering.ee/en/price-list-and-standard-terms-and-conditions)
+- [Blog](https://www.elering.ee/en/blog)
+- [GitHub](https://github.com/Elering)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/elering/](https://apis.io/providers/elering/).
